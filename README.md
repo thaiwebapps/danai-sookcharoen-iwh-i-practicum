@@ -6,7 +6,7 @@ To read the full directions, please go to the [practicum instructions](https://a
 
 **Put your HubSpot developer test account custom objects URL link here:** https://app.hubspot.com/contacts/l/objects/${custom-obj-number}/views/all/list
 
-**Link to the list view of the custom object you made**
+**Link to the list view of the custom object you made:**
 https://app.hubspot.com/contacts/39761715/objects/2-20628733/views/all/list
 
 ---
